@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Harmond",
+    "file": "Harmond-SemBdItaCond.otf"
+  },
+  {
+    "name": "Harmonditalic",
+    "file": "Harmond-SemiBoldCondensed.otf"
+  },
+  {
+    "name": "Helvetica",
+    "file": "HelveticaNowDisplay-Bold.ttf"
+  },
+  {
+    "name": "Phonk",
+    "file": "PhonkRegularDEMO.otf"
+  }
+]
