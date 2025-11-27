@@ -1,0 +1,19 @@
+{
+  "navbar": {
+    "brand": "RAFFA HITIPEUW",
+    "links": [
+      {
+        "label": "BLOG",
+        "href": "https://blog-raffahitipeuw.vercel.app/"
+      },
+      {
+        "label": "CONTACT",
+        "href": "/contact"
+      },
+      {
+        "label": "LINKEDIN",
+        "href": "https://www.linkedin.com/in/raffa-hitipeuw-30124b380/"
+      }
+    ]
+  }
+}
