@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "project": "TAPAS",
+      "name": "TAPAS",
+      "year": "OCT - 25",
+      "category": "SUSTAINABLE MOBILITY PLATFORM",
+      "desc": "TapasRide adalah platform mobilitas berkelanjutan yang dirancang untuk menghadirkan pengalaman transportasi ramah lingkungan di perkotaan. Menggabungkan teknologi modern dan desain user-friendly, TapasRide bertujuan untuk merevolusi cara orang berpindah-pindah: dari sekadar naik-turun kendaraan konvensional, menjadi bagian dari ekosistem transportasi pintar yang efisien dan bersih.",
+      "link": "https://tapas.com"
+    },
+    {
+      "project": "TYPION",
+      "name": "TYPION TEAM",
+      "year": "OCT - 25",
+      "category": "PRECISION TYPING PLATFORM",
+      "desc": "Typion adalah platform latihan mengetik yang dirancang untuk meningkatkan kecepatan, akurasi, dan ritme mengetik melalui antarmuka sederhana tapi efektif. Dengan fokus kuat pada pengalaman pengguna yang bersih dan gamifikasi minimalis, Typion membantu pengguna dari berbagai level (pemula hingga advanced) untuk mengasah skill mengetik dengan cara yang menyenangkan dan produktif.",
+      "link": "https://typion-rose.vercel.app/"
+    },
+    {
+      "project": "NIVARA",
+      "name": "NIVARAFOUNDER",
+      "year": "FEB - 24",
+      "category": "VERIFIED ELECTRONICS MARKETPLACE",
+      "desc": "Nivara adalah platform jual beli elektronik yang mengutamakan keaslian dan transparansi. Setiap produk dicek kualitasnya sehingga pengguna bisa membeli perangkat elektronik dengan aman dan percaya diri.",
+      "link": "#"
+    },
+    {
+      "project": "ARCHIPELAGO",
+      "name": "PELAGOCULTURE",
+      "year": "JAN - 22",
+      "category": "MODERN CULTURE SHOWCASE",
+      "desc": "Archipelago Culture adalah platform digital yang merayakan keragaman budaya kepulauan Nusantara. Di sini, pengunjung bisa menjelajahi warisan budaya dari berbagai pulau—mulai dari seni tradisional, musik lokal, tradisi turun-temurun, hingga narasi modern yang merangkul akar budaya Indonesia.",
+      "link": "#"
+    }
+  ]
+}
