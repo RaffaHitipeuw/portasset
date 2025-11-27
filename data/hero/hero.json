@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "name": {
+      "text": "RAFFA HITIPEUW",
+      "styled": [
+        { "char": "R", "font": "pixel" },
+        { "char": "A", "font": "magnet" },
+        { "char": "F", "font": "magnet" },
+        { "char": "F", "font": "magnet" },
+        { "char": "A", "font": "magnet" },
+        { "char": " ", "font": null },
+        { "char": "H", "font": "pixel" },
+        { "char": "ITIPEUW", "font": "magnet" }
+      ]
+    },
+    "role": "FRONT END DEVELOPER",
+    "tagline": "CRAFTED VISUALS, CLEAN ENERGY",
+    "location": {
+      "prefix": "BASED IN",
+      "place": "JAKARTA"
+    },
+    "footer": {
+      "folio": "FOLIO",
+      "year": "©2025"
+    }
+  }
+}
