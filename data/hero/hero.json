@@ -1,35 +1,9 @@
 {
   "hero": [
-    {
-      "className": "hero-line font-magnet text-3xl leading-2.5 md:text-4xl md:leading-6 xl:text-6xl xl:leading-6",
-      "parts": [
-        { "text": "R", "fontClass": "font-pixel" },
-        { "text": "AFFA " },
-        { "text": "H", "fontClass": "font-pixel" },
-        { "text": "ITIPEUW" }
-      ]
-    },
-    {
-      "className": "hero-line font-magnet text-2xl md:text-4xl xl:text-6xl",
-      "text": "FRONT END DEVELOPER"
-    },
-    {
-      "className": "hero-line font-pixel text-xl leading-4 md:text-4xl md:leading-10 xl:text-6xl xl:leading-16",
-      "text": "CRAFTED VISUALS, CLEAN ENERGY"
-    },
-    {
-      "className": "hero-line text-xl leading-6 md:text-4xl md:leading-6 xl:text-5xl xl:leading-6",
-      "parts": [
-        { "text": "BASED IN ", "fontClass": "font-magnet" },
-        { "text": "JAKARTA", "fontClass": "font-pixel" }
-      ]
-    },
-    {
-      "className": "hero-line text-lg leading-3 md:text-3xl md:leading-9 xl:text-5xl xl:leading-12",
-      "parts": [
-        { "text": "FOLIO", "fontClass": "font-pixel" },
-        { "text": "©2025", "fontClass": "font-magnet" }
-      ]
-    }
+    { "text": "RAFFA HITIPEUW" },
+    { "text": "FRONT END DEVELOPER" },
+    { "text": "CRAFTED VISUALS, CLEAN ENERGY" },
+    { "text": "BASED IN JAKARTA" },
+    { "text": "FOLIO ©2025" }
   ]
 }
