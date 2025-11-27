@@ -1,27 +1,29 @@
 {
-  "hero": {
-    "name": {
+  "hero": [
+    {
       "text": "RAFFA HITIPEUW",
-      "styled": [
-        { "char": "R", "font": "pixel" },
-        { "char": "A", "font": "magnet" },
-        { "char": "F", "font": "magnet" },
-        { "char": "F", "font": "magnet" },
-        { "char": "A", "font": "magnet" },
-        { "char": " ", "font": null },
-        { "char": "H", "font": "pixel" },
-        { "char": "ITIPEUW", "font": "magnet" }
+      "parts": [
+        { "text": "R", "fontClass": "font-pixel" },
+        { "text": "AFFA ", "fontClass": "font-magnet" },
+        { "text": "H", "fontClass": "font-pixel" },
+        { "text": "ITIPEUW", "fontClass": "font-magnet" }
       ]
     },
-    "role": "FRONT END DEVELOPER",
-    "tagline": "CRAFTED VISUALS, CLEAN ENERGY",
-    "location": {
-      "prefix": "BASED IN",
-      "place": "JAKARTA"
+    {
+      "text": "FRONT END DEVELOPER",
+      "fontClass": "font-magnet"
     },
-    "footer": {
-      "folio": "FOLIO",
-      "year": "©2025"
+    {
+      "text": "CRAFTED VISUALS, CLEAN ENERGY",
+      "fontClass": "font-pixel"
+    },
+    {
+      "text": ["BASED IN ", "JAKARTA"],
+      "fontClass": ["font-magnet", "font-pixel"]
+    },
+    {
+      "text": ["FOLIO", "©2025"],
+      "fontClass": ["font-pixel", "font-magnet"]
     }
-  }
+  ]
 }
