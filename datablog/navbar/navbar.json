@@ -1,0 +1,10 @@
+{
+  "navbar": {
+    "brand": "BLOG",
+    "toggleMenuLabel": "MENU",
+    "darkmode": {
+      "light": "☀️",
+      "dark": "🌑"
+    }
+  }
+}
