@@ -1,39 +1,36 @@
 {
-  "landing": {
-    "heading": {
-      "left": "HOW",
-      "right": ["THIS", "WORKS"]
+  "heading": {
+    "left": "HOW",
+    "right": ["THIS", "WORKS"]
+  },
+  "gallery": [
+    {
+      "date": "November 27, 2025",
+      "title": "Scroll Text Marquee",
+      "desc": "Text Parallax Animation. Crafted for maximum visual impact…",
+      "image": "/assets/image/ScrollTextMarqueeImg.webp",
+      "alt": "Text Parallax Animation"
     },
-    "galleryTitle": "Gallery",
-    "items": [
-      {
-        "date": "November 27, 2025",
-        "title": "Scroll Text Marquee",
-        "description": "Text Parallax Animation. Crafted for maximum visual impact…",
-        "image": "/assets/media/image/ScrollTextMarqueeImg.webp",
-        "alt": "Text Parallax Animation"
-      },
-      {
-        "date": "November 27, 2025",
-        "title": "Smooth Lenis Scroll",
-        "description": "Tired of parallax effects that feel janky and unsmooth…",
-        "image": "/assets/media/image/SmoothLenisScroll.webp",
-        "alt": "Smooth Lenis Scroll"
-      },
-      {
-        "date": "November 27, 2025",
-        "title": "Image Mouse Trail",
-        "description": "Make your cursor the main event…",
-        "image": "/assets/media/image/ImageMouseTrail.webp",
-        "alt": "Image Mouse Trail"
-      },
-      {
-        "date": "November 27, 2025",
-        "title": "Scroll Text Reveal",
-        "description": "Bring your words to life on scroll…",
-        "image": "/assets/media/image/ScrollTextReveal.webp",
-        "alt": "Scroll Text Reveal"
-      }
-    ]
-  }
+    {
+      "date": "November 27, 2025",
+      "title": "Smooth Lenis Scroll",
+      "desc": "Tired of parallax effects that feel janky and unsmooth…",
+      "image": "/assets/image/SmoothLenisScroll.webp",
+      "alt": "Smooth Lenis Scroll"
+    },
+    {
+      "date": "November 27, 2025",
+      "title": "Image Mouse Trail",
+      "desc": "Make your cursor the main event…",
+      "image": "/assets/image/ImageMouseTrail.webp",
+      "alt": "Image Mouse Trail"
+    },
+    {
+      "date": "November 27, 2025",
+      "title": "Scroll Text Reveal",
+      "desc": "Bring your words to life on scroll…",
+      "image": "/assets/image/ScrollTextReveal.webp",
+      "alt": "Scroll Text Reveal"
+    }
+  ]
 }
