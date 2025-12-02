@@ -1,0 +1,39 @@
+{
+  "landing": {
+    "heading": {
+      "left": "HOW",
+      "right": ["THIS", "WORKS"]
+    },
+    "galleryTitle": "Gallery",
+    "items": [
+      {
+        "date": "November 27, 2025",
+        "title": "Scroll Text Marquee",
+        "description": "Text Parallax Animation. Crafted for maximum visual impact…",
+        "image": "/assets/media/image/ScrollTextMarqueeImg.webp",
+        "alt": "Text Parallax Animation"
+      },
+      {
+        "date": "November 27, 2025",
+        "title": "Smooth Lenis Scroll",
+        "description": "Tired of parallax effects that feel janky and unsmooth…",
+        "image": "/assets/media/image/SmoothLenisScroll.webp",
+        "alt": "Smooth Lenis Scroll"
+      },
+      {
+        "date": "November 27, 2025",
+        "title": "Image Mouse Trail",
+        "description": "Make your cursor the main event…",
+        "image": "/assets/media/image/ImageMouseTrail.webp",
+        "alt": "Image Mouse Trail"
+      },
+      {
+        "date": "November 27, 2025",
+        "title": "Scroll Text Reveal",
+        "description": "Bring your words to life on scroll…",
+        "image": "/assets/media/image/ScrollTextReveal.webp",
+        "alt": "Scroll Text Reveal"
+      }
+    ]
+  }
+}
