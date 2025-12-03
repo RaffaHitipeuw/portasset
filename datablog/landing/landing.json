@@ -5,6 +5,7 @@
   },
   "gallery": [
     {
+      "slug": "scroll-text-marquee",
       "date": "November 27, 2025",
       "title": "Scroll Text Marquee",
       "desc": "Text Parallax Animation. Crafted for maximum visual impact…",
@@ -12,6 +13,7 @@
       "alt": "Text Parallax Animation"
     },
     {
+      "slug": "smooth-lenis-scroll",
       "date": "November 27, 2025",
       "title": "Smooth Lenis Scroll",
       "desc": "Tired of parallax effects that feel janky and unsmooth…",
@@ -19,6 +21,7 @@
       "alt": "Smooth Lenis Scroll"
     },
     {
+      "slug": "image-mouse-trail",
       "date": "November 27, 2025",
       "title": "Image Mouse Trail",
       "desc": "Make your cursor the main event…",
@@ -26,6 +29,7 @@
       "alt": "Image Mouse Trail"
     },
     {
+      "slug": "scroll-text-reveal",
       "date": "November 27, 2025",
       "title": "Scroll Text Reveal",
       "desc": "Bring your words to life on scroll…",
