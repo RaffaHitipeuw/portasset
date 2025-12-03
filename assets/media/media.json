@@ -1,6 +1,6 @@
 {
-  "ScrollTextMarqueeImg": "./ScrollTextMarqueeImg.webp",
-  "SmoothLenisScroll": "./SmoothLenisScroll.webp",
-  "ImageMouseTrail": "./ImageMouseTrail.webp",
-  "ScrollTextReveal": "./ScrollTextReveal.webp"
+  "ScrollTextMarqueeImg": "/assets/media/ScrollTextMarqueeImg.webp",
+  "SmoothLenisScroll": "/assets/media/SmoothLenisScroll.webp",
+  "ImageMouseTrail": "/assets/media/ImageMouseTrail.webp",
+  "ScrollTextReveal": "/assets/media/ScrollTextReveal.webp"
 }
